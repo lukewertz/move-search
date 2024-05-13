@@ -27,3 +27,8 @@ Given more time, I'd love to spend time working further with the `Menu` and `Cus
 
 I can also see the possibility of extending such an application to include both 
 personalization and a/b testing, given enough data & usage. 
+
+One other idea I had to create a new content discovery channel was to transform the
+data set to separate out the year of release and expose that as a facet. I think it
+could be fun to explore movies by year (but the provided data set was 
+overly-specific for this purpose).
