@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import React, {} from 'react';
 import algoliasearch from 'algoliasearch/lite';
-import { InstantSearch, SearchBox, Hits, Menu, ClearRefinements, useClearRefinements } from 'react-instantsearch';
+import { InstantSearch, SearchBox, Hits, Menu, useClearRefinements } from 'react-instantsearch';
 
 const searchClient = algoliasearch('2XPVD2ON18', 'ea8f2c801e574b782020cd710d2e0eca');
 
